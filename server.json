@@ -15,6 +15,14 @@
             "category": "Alimentação",
             "price": 50,
             "createdAt": "2024-09-04T12:40:55.682Z"
+        },
+        {
+            "id": 3,
+            "description": "Manutenção do carro",
+            "type": "outcome",
+            "category": "Carro",
+            "price": 600,
+            "createdAt": "2024-09-04T19:10:55.682Z"
         }
     ]
 }
