@@ -1,28 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimendo de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 15000,
-            "createdAt": "2024-09-04T12:25:55.682Z"
-        },
-        {
-            "id": 2,
-            "description": "Lanche",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2024-09-04T12:40:55.682Z"
-        },
-        {
-            "id": 3,
-            "description": "Manutenção do carro",
-            "type": "outcome",
-            "category": "Carro",
-            "price": 600,
-            "createdAt": "2024-09-04T19:10:55.682Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimendo de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 15000,
+      "createdAt": "2024-09-04T12:25:55.682Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-09-04T12:40:55.682Z"
+    },
+    {
+      "id": 3,
+      "description": "Manutenção do carro",
+      "type": "outcome",
+      "category": "Carro",
+      "price": 600,
+      "createdAt": "2024-09-04T19:10:55.682Z"
+    },
+    {
+      "description": "Xupeta",
+      "category": "Filho",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2024-09-06T09:10:05.860Z",
+      "id": 4
+    },
+    {
+      "description": "Celular",
+      "category": "Electronico ",
+      "price": 4250,
+      "type": "outcome",
+      "createdAt": "2024-09-06T12:28:42.331Z",
+      "id": 5
+    }
+  ]
 }
