@@ -23,22 +23,6 @@
       "category": "Carro",
       "price": 600,
       "createdAt": "2024-09-04T19:10:55.682Z"
-    },
-    {
-      "description": "Xupeta",
-      "category": "Filho",
-      "price": 100,
-      "type": "outcome",
-      "createdAt": "2024-09-06T09:10:05.860Z",
-      "id": 4
-    },
-    {
-      "description": "Celular",
-      "category": "Electronico ",
-      "price": 4250,
-      "type": "outcome",
-      "createdAt": "2024-09-06T12:28:42.331Z",
-      "id": 5
     }
   ]
 }
